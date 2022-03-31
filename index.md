@@ -3,7 +3,7 @@ layout: default
 title: Justina Schiroo
 ---
 
-Hello! My name is Justina, and I’m somewhere between a technical business analyst and a product owner/manager. I'm enthusiastic about working with developers to solve problems in a way that both tries to live up to stakeholder dreams and meets user needs.
+Hello! My name is Justina, and for the past few years I've been in the product space as a Product Manager! I'm enthusiastic about working with developers to solve problems in a way that both tries to live up to stakeholder dreams and meets user needs.
 
 <img style="float: left; padding: 10px;"
  src="{{ site.url }}/assets/self.jpg"

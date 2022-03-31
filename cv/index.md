@@ -4,9 +4,16 @@ title: Justina Schiroo Resume
 ---
 
 # Professional experience #
+{% include job.html job_title="Product Manager"
+                    employer="HomeValet"
+                    job_date="August 2020 - March 2022"
+                    location="Minneapolis, MN"%}
+- Feature prioritization and scope definition with several small teams of software developers
+- Writing user stories, creating personas and customer journeys, and keeping track of the big picture roadmap
+
 {% include job.html job_title="Senior Technical Business Analyst"
                     employer="Stone Arch Bridge Group/Journey121"
-                    job_date="April 2019 - Present"
+                    job_date="April 2019 - August 2020"
                     location="Minneapolis, MN"%}
 - Gather business requirements and maintain project backlogs to support agile product development
 - Maintain communication on sprint deliverables and timelines through technical presentations
